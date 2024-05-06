@@ -31,11 +31,11 @@ Step 8: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
+
 Program to display animation operation”.
-Developed by: Aaron Dominic
-Registeration Number : 212221040001
-*/
+Developed by: Bharathi priyan T
+Registeration Number : 212221040028
+
 ```
 
 activity_main.xml
